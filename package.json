@@ -21,7 +21,6 @@
   "files": [
     "lib",
     "docs",
-    "src",
     "LICENSE.md",
     "README.md"
   ],
