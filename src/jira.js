@@ -804,7 +804,7 @@ export default class JiraApi {
     }), {
       method: 'PUT',
       followAllRedirects: true,
-      body: { accountId: userId },
+      body: { accountId: userId, key: userId },
     }));
   }
 
